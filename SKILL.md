@@ -1,6 +1,10 @@
 ---
 name: telegram-rich-messages
 description: Comprehensive guide for Telegram Rich UI features (Inline buttons, formatting, media, reactions, and message management). Use this skill to provide a low-friction, interactive experience for Telegram users, prioritizing buttons over typing.
+metadata:
+  {
+    "openclaw": { "requires": { "plugins": ["telegram"] } },
+  }
 ---
 
 # Telegram Rich Messages
